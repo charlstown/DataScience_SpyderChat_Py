@@ -2,7 +2,7 @@
 
 [TOC]
 
-<img src="./Images/SpiderChat.png" alt="SpiderChat" align='left' style="zoom:20%;" />
+<img src="./Images/SpiderChat_400.png" alt="SpiderChat_400" align="left"/>
 
 ## 0. Description
 
