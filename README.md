@@ -2,6 +2,8 @@
 
 [TOC]
 
+<img src="./Images/SpiderChat.png" alt="SpiderChat" align='left' style="zoom:20%;" />
+
 ## 0. Description
 
 *SpyderChat* is a scrapper tool to analyze the data from chat groups in whatsapp. After you run the code you will get plots showing data about the users and interactions.
