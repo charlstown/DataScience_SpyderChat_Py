@@ -4,7 +4,9 @@
 
 <img src="./Images/SpiderChat_400.png" alt="SpiderChat_400" align="center"/>
 
----
+
+
+___
 
 
 
